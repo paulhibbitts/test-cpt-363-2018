@@ -1,0 +1,34 @@
+/*
+===============================================================================================================================
+Put your custom CSS in this file.
+===============================================================================================================================
+*/
+
+/* CSS to set NavBar items to white (uncomment to enable) */
+/*
+.bg-primary .navbar-nav .active>.nav-link
+{
+    color: #FFFFFF !important;
+}
+*/
+
+/* CSS to better match font family with Canvas LMS*/
+
+@import url('https://fonts.googleapis.com/css?family=Lato:light'); /* Changed for Canvas LMS */
+
+body {
+  font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size: 16px;
+}
+
+/* CSS to better match link colors with Canvas LMS*/
+
+ a:not(btn) {
+  color: #008EE2;
+  text-decoration: none;
+}
+a:hover,
+a:focus {
+  color: #008EE2;
+  text-decoration: underline;
+}
