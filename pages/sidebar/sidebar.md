@@ -18,11 +18,11 @@ Fridays 12:00-1:00pm
 
 ##### Canvas LMS
 [Calendar](https://sso.canvaslms.com/calendar)  
-[Assignments](https://sso.canvaslms.com/courses/1413912/assignments)  
-[Quizzes](https://sso.canvaslms.com/courses/1413912/quizzes)  
-[Class Discussions](https://sso.canvaslms.com/courses/1413912/discussion_topics)  
-[Grades](https://sso.canvaslms.com/courses/1413912/grades)  
-[Syllabus](https://sso.canvaslms.com/courses/1413912/assignments/syllabus)
+[Assignments](https://sso.canvaslms.com/courses/1416014/assignments)  
+[Quizzes](https://sso.canvaslms.com/courses/1416014/quizzes)  
+[Class Discussions](https://sso.canvaslms.com/courses/1416014/discussion_topics)  
+[Grades](https://sso.canvaslms.com/courses/1416014/grades)  
+[Syllabus](https://sso.canvaslms.com/courses/1416014/assignments/syllabus)
 
 ##### Paul's Web Pick of the Week
 [plugin:page-inject](/all-web-picks-of-the-week/latest)

@@ -1,5 +1,5 @@
 ---
-title: Schedule
+title: Schedule in Canvas LMS
 published: true
 show_sidebar: false
 visible: false
